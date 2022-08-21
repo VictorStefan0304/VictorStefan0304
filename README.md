@@ -8,4 +8,4 @@
 VictorStefan0304/VictorStefan0304 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Howdy!  I'm Victor.  I'm new on GitHub and I want to do a professional conversion.  He worked a lot with IT professionals, but as an IT Recruiter.  You can find me more easily at the e-mail address: victor89munteanu@gmail.com
+Howdy!  I'm Victor. I'm new on GitHub and I want to do a professional conversion. I worked a lot with IT professionals, but as an IT Recruiter. You can find me more easily at the e-mail address: victor89munteanu@gmail.com
